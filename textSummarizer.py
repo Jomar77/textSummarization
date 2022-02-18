@@ -4,8 +4,8 @@ from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize, sent_tokenize
    
 # Input text - to summarize 
-
-scraped_data = open('the.txt')
+    
+scraped_data = open('the.txt',  encoding="utf8")
 text = scraped_data.read()
    
 # Tokenizing the text

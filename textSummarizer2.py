@@ -3,7 +3,7 @@ import urllib.request
 import re
 import nltk
 
-scraped_data = open('the.txt')
+scraped_data = open('the.txt',  encoding="utf8")
 article = scraped_data.read()
 
 parsed_article = bs.BeautifulSoup(article,'lxml')

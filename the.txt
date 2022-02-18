@@ -1,29 +1,4 @@
-Technology affects the way individuals communicate, learn, and think. It helps society and determines how
-people interact with each other on a daily basis. Technology plays an important role in society today. It has positive
-and negative effects on the world and it impacts daily lives. We are living in an era where technological advances
-are common. The internet and cell phones are some examples. However, with technological advances, there’s a
-downside to it all.
-One aspect of technology that has had a great impact on society is how it affects learning. It’s made learning
-more interactive and collaborative, this helps people better engage with the material that they are learning and
-have trouble with. Also, it gets you better access to resources. With the creation of the internet, it gives us access to
-information at a twenty-four-hour rate and you have access to almost anything online. In addition, it allows
-students to get work done easier. Students can take quizzes and exams more easily, and teachers being able to hold
-online classes can be very effective. It also expands the boundaries of the classroom, encouraging self-paced
-learning. People can access learning through YouTube and social media. This helps students learn better than sitting
-down for lectures and reading from textbooks. These technological advancements made learning more fun and
-convenient.
-Another way technology has impacted society is through communication, how we talk and communicate with
-one another worldwide. Technology brought many new methods of electronic communication. For example, there
-are emails, social networking, you can facetime a person that lives on the other side of the world, and here’s video
-conferencing where you can have conferences electronically. Lastly, the technological advancements that were
-made within the health industry have helped keep people safe and healthy. There are many innovate apps on
-phones that although people to watch their weight, how many calories they intake, heart rate and other health
-properties any time of the day. There’s increased accessibility of treatment available, there’s the change in
-healthcare that adds benefits for the elderly, and hospitals using advanced technology within their surgical rooms.
-However, studies show that mobile communication affects people in a negative way when it comes to being
-sociable and making face-to-face contact. Mobile technology can decrease communication and relations between
-people. There’s less personal time, where you find that you don’t enough time for yourself because you’re always in
-contact with someone. Also, it can be distracting from your schoolwork. There is also loss of privacy, because
-anyone can find you anywhere, at any time of the day. In conclusion, all of these things impact how humans act
-today. Without technological advancements, our way of life would not be as complex. Technological influences
-shape the way humans act today.
+The Alan Turing story is so fantastic that it was inevitable that somebody should make a movie about it. His life is both inspiring and horrifying. I was fascinated at the story of Turning and his team’s work to break the German code, in order to bring the Second World War to swift close. Without the help of modern technology, they built a “computer” to decipher it.
+There is one more element in the film’s depiction of Turing’s life that might have made his existence quite difficult. Once the Enigma code was broken, the British couldn’t use every intercepted communication to thwart German war plans; the Germans would have soon realized the code had been deciphered and would change it. Well, the computers that we benefited today is the result of Alan’s efforts and intelligence. He is a mathematician that’s why he created his machine in which that machine is one of the roots of our modern computers.
+Clarke is as much of an odd duck as Turing—and perhaps even brighter—as the lone female involved in deciphering Enigma. Since it is considered “indecorous” for a single woman to work and share living quarters alongside men, she must sneak about to contribute to the effort.   
+Alexander and the others have no success in decrypting the German cipher machine, a task made very difficult because the codes are changed every 24 hours. Turing, after much thought and experimentation, decides that the best approach is to build a machine that can beat the Enigma machine at its own game. When the Navy Commander refuses to take him seriously, Turing sends a letter to Winston Churchill who puts him in charge of the project. He immediately fires two people and welcomes Joan Clarke (Keira Knightley), whose quick mind has made her a wizard at crossword puzzles and mathematical conundrums.
